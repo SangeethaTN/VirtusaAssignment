@@ -158,8 +158,6 @@ class Calculator {
       calculator.clear()
       calculator.updateDisplay()
     }
-    else{
-        alert("Only numbers are allowed");
-    }
+   
   
   });
